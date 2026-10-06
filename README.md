@@ -33,6 +33,7 @@ Only one output is asserted for each valid input combination.
 
 | Parameter | Value |
 |------------|--------|
+| Circuit Description | SPICE Netlists |
 | Technology | TSMC 0.18 μm CMOS |
 | Simulator | Synopsys HSPICE |
 | Supply Voltage | 5 V |
