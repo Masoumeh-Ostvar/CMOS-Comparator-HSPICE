@@ -1,0 +1,20 @@
+Measurement Results
+   charge          =   -4.4596p      
+   energy          =   22.2980p      
+   power           =  139.3624u      
+   tpLH_gt         =   83.2659p      
+   tpHL_gt         =   80.2096p      
+   tpd_gt          =   81.7378p      
+   trise_gt        =  100.9914p      
+   tfall_gt        =   82.6278p      
+   tpLH_eq         =  144.9764p      
+   tpHL_eq         =  121.6526p      
+   tpd_eq          =  133.3145p      
+   trise_eq        =   89.1430p      
+   tfall_eq        =   84.0853p      
+   tpLH_lt         =  143.2139p      
+   tpHL_lt         =  116.1304p      
+   tpd_lt          =  129.6721p      
+   trise_lt        =  102.7068p      
+   tfall_lt        =   86.3235p      
+

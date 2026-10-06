@@ -1,0 +1,72 @@
+T-Spice - Tanner SPICE
+Version 2019.2
+License validated.
+Product Release ID: T-Spice Win64 2019.2.20190514.20:23:23
+Copyright (C)1988-2019 Mentor, a Siemens Business
+
+Input folder         = D:\My university\Term 8\Microelectronic Circuits\Homework\5\MC-HW05-Sim01-Masoumeh Ostvar\Code\
+Output folder        = D:\My university\Term 8\Microelectronic Circuits\Homework\5\MC-HW05-Sim01-Masoumeh Ostvar\Code\T-Spice1
+
+	Parsing "D:\My university\Term 8\Microelectronic Circuits\Homework\5\MC-HW05-Sim01-Masoumeh Ostvar\Code\T-Spice1.sp"
+	Including "C:\lib\mosistsmc180.lib"
+
+Start of T-Spice1.sp
+Loaded BSIM3v31 model library, Berkeley BSIM3 v3.1.0 with extensions
+
+General options:
+        threads = 1
+
+Output options:
+          nomod = 1                      post = 2
+
+Probing options:
+         probev = 1
+
+ Device and node counts:
+              MOSFETs -      66
+    MOSFET geometries -       5
+           Capacitors -       3
+      Voltage sources -       5
+   Subckt Definitions -       6
+     Subckt Instances -      18
+     Unique Instances -       7
+    Model Definitions -       2
+      Computed Models -       2
+    Independent nodes -      35
+       Boundary nodes -       6
+          Total nodes -      41
+
+	Opening simulation database "D:\My university\Term 8\Microelectronic Circuits\Homework\5\MC-HW05-Sim01-Masoumeh Ostvar\Code\T-Spice1.tsim"
+
+Measure information will be written to file "D:\My university\Term 8\Microelectronic Circuits\Homework\5\MC-HW05-Sim01-Masoumeh Ostvar\Code\T-Spice1\T-Spice1.measure"
+
+Measurement result summary
+   charge          =   -4.4596p      
+   energy          =   22.2980p      
+   power           =  139.3624u      
+   tpLH_gt         =   83.2659p      
+   tpHL_gt         =   80.2096p      
+   tpd_gt          =   81.7378p      
+   trise_gt        =  100.9914p      
+   tfall_gt        =   82.6278p      
+   tpLH_eq         =  144.9764p      
+   tpHL_eq         =  121.6526p      
+   tpd_eq          =  133.3145p      
+   trise_eq        =   89.1430p      
+   tfall_eq        =   84.0853p      
+   tpLH_lt         =  143.2139p      
+   tpHL_lt         =  116.1304p      
+   tpd_lt          =  129.6721p      
+   trise_lt        =  102.7068p      
+   tfall_lt        =   86.3235p      
+
+
+Setup                        0.03 seconds
+DC operating point           0.01 seconds
+Transient Analysis           1.38 seconds
+Output                       0.21 seconds
+Overhead                     0.31 seconds
+-----------------------------------------
+Total                        1.94 seconds
+
+Simulation completed
