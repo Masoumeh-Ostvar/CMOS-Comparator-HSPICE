@@ -292,3 +292,7 @@ CMOS-Comparator-HSPICE
 - Hierarchical Circuit Design
 - Digital Comparator Design
 - VLSI Fundamentals
+
+## Documentation
+
+A detailed project report is available in `Report.pdf`.
